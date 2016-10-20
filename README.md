@@ -60,5 +60,7 @@ With this architecture there is no teardown because the setup steps clear the DB
 
 [example test setup](/example)
 
+run from the root of the repo with `node /example`
+
 The example service and tests are extremely contrived but can be used as a decent
 demonstration of how this process can be used.
